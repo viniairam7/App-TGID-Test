@@ -3,7 +3,8 @@
 
 💻 Para executar o projeto localmente, basta clonar o repositório e instalar as dependências com o comando npm install. Em seguida, é necessário criar um arquivo chamado db.json na raiz do projeto contendo os produtos. Um exemplo de conteúdo seria: uma lista de produtos com id, nome e preço. Com o arquivo pronto, basta iniciar o JSON Server com o comando json-server --watch db.json --port 3001. Esse servidor simulará a API REST que será consumida pelo React.
 
-# 🖥️ A interface da aplicação é simples e responsiva. Os produtos são exibidos com nome e preço, cada um com um botão para ser adicionado ao carrinho. O carrinho, por sua vez, mostra todos os itens adicionados com a opção de removê-los individualmente. Um resumo ao lado mostra o valor total da compra e um botão de “Finalizar Compra”.
+# 🖥️ A interface da aplicação é simples e responsiva. 
+Os produtos são exibidos com nome e preço, cada um com um botão para ser adicionado ao carrinho. O carrinho, por sua vez, mostra todos os itens adicionados com a opção de removê-los individualmente. Um resumo ao lado mostra o valor total da compra e um botão de “Finalizar Compra”.
 
 🛠️ Este projeto utiliza exclusivamente tecnologias como React, JavaScript moderno (ES6+), CSS e JSON Server. Ele foi feito com o intuito de cumprir um desafio de programação, podendo ser expandido facilmente com recursos como login, autenticação, conexão com banco de dados real e design mais elaborado.
 
@@ -16,7 +17,8 @@
 
 💻 To run the project locally, start by cloning the repository and installing the dependencies using the command npm install. Then, create a file called db.json at the root of the project containing a list of products. Each product should have an ID, name, and price. Once the file is ready, start the JSON Server with json-server --watch db.json --port 3001. This will simulate the REST API that React will consume.
 
-# 🖥️ The interface is clean and responsive. Products are displayed with their name and price, and each has a button to add it to the cart. The cart shows all added items, with the option to remove them one by one. On the side, there's a summary showing the total purchase amount and a "Finalize Purchase" button.
+# 🖥️ The interface is clean and responsive. 
+Products are displayed with their name and price, and each has a button to add it to the cart. The cart shows all added items, with the option to remove them one by one. On the side, there's a summary showing the total purchase amount and a "Finalize Purchase" button.
 
 🛠️ This project exclusively uses technologies such as React, modern JavaScript (ES6+), CSS, and JSON Server. It was built to fulfill a programming challenge but can easily be expanded to include features like user login, authentication, connection to a real database, or a more advanced UI design.
 
